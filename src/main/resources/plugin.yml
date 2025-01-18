@@ -1,0 +1,5 @@
+name: Vylenetwork-Lobby
+version: '1.0.0'
+main: xyz.vylenix.vylenetworkLobby.VylenetworkLobby
+depend: [VylenetworkAPI]
+load: STARTUP
